@@ -19,11 +19,24 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Source_Code\BST.h" />
     <ClInclude Include="Source_Code\FilmManager.h" />
+    <ClInclude Include="Source_Code\LinkedList.h" />
+    <ClInclude Include="Source_Code\Queue.h" />
     <ClInclude Include="Source_Code\Scene.h" />
+    <ClInclude Include="Source_Code\Sorting.h" />
+    <ClInclude Include="Source_Code\Stack.h" />
+    <ClInclude Include="Source_Code\Statistics.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Source_Code\BST.cpp" />
+    <ClCompile Include="Source_Code\FilmManager.cpp" />
+    <ClCompile Include="Source_Code\LinkedList.cpp" />
     <ClCompile Include="Source_Code\main.cpp" />
+    <ClCompile Include="Source_Code\Queue.cpp" />
+    <ClCompile Include="Source_Code\Sorting.cpp" />
+    <ClCompile Include="Source_Code\Stack.cpp" />
+    <ClCompile Include="Source_Code\Statistics.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
